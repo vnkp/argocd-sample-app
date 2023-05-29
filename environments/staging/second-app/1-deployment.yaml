@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
          - name: nginx
-           image: kiranpvn/nginx:v0.1.3
+           image: kiranpvn/nginx:v1.0.3
            ports:
              - containerPort: 80
 
